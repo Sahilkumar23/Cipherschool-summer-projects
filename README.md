@@ -1,4 +1,4 @@
-## Cipherschool-summer-course
+# Cipherschool-summer-course-C++ Mini Projects
 
 
 
@@ -6,10 +6,10 @@
 
 
 
-# Project Description
+## Project Description
 This repository contains three mini-projects developed in C++ as part of a 1.5-month online training program with CipherSchools. The projects demonstrate various aspects of C++ programming, including game development, task management, and social media simulation. Each project is designed to enhance understanding and application of core C++ concepts.
 
-# Projects Overview
+## Projects Overview
 1. Guess Number Game
 2. TO-DO List Manager
 3. Social Media Program
@@ -41,7 +41,7 @@ A simple simulation of a social media platform where users can add friends, send
 * Send and view messages between users.
 * Create and manage groups.
 
-# Getting Started
+## Getting Started
 > Prerequisites
 * C++ Compiler (GCC, Clang, MSVC, etc.)
 * A code editor or IDE (Visual Studio Code, CLion, etc.)
