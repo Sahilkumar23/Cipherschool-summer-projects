@@ -1,5 +1,5 @@
 <a href="logo github"><img src="https://github.com/Sahilkumar23/Cipherschool-summer-projects/blob/main/images.jpg" align="middle" width="100" height="50"></a> 
-# Cipherschool-summer-course-C++ Mini Projects
+# Cipherschool summer course C++ Mini Projects
 
 
 
