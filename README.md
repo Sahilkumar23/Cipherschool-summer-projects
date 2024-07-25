@@ -1,6 +1,9 @@
 # Cipherschool-summer-course-C++ Mini Projects
 
 
+<a href="alternative text"><img src="url" align="middle" width="desired width" height="desired heigh"></a>
+<a href="logo github"><img src="" align="middle" width="100" height="50"></a>
+
 
 
 
