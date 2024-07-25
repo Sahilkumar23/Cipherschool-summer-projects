@@ -1,8 +1,8 @@
-# Cipherschool-summer-projects
+## Cipherschool-summer-course
 
 
 
-- C++ Mini Projects
+
 
 
 
