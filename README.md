@@ -62,7 +62,7 @@ A simple simulation of a social media platform where users can add friends, send
 > License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-> Acknowledgments
+- Acknowledgments
 * CipherSchools for providing the training and resources.
 * Mentors and peers for their support and guidance throughout the training program.
 
